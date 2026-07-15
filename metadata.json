@@ -1,0 +1,6 @@
+{
+  "name": "Bhosle Breakfast Corner",
+  "description": "A beautiful single-page showcase for Bhosle Breakfast Corner, a popular local breakfast stall near Badlapur Railway Station offering delicious Poha, Ghavane, Upma, Sabudana Khichdi, and Chai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
